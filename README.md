@@ -5,6 +5,7 @@ This project focuses on building an interactive **data-driven dashboard** for a 
 - **Member Information:** Name, Location (Division & Muqam), Education Level  
 - **Religious Practices:** Prayer Compliance, Hifz Progress (with actual percentage), Tafseer Reading (with actual percentage)  
 - **Personal Development:** Book Reading Progress (with actual percentage)  
+- **Colour Theme:** Black, Red, Green, Blue 
 
 The goal is to offer a **single-click view** for stakeholders to track and assess the overall growth and development of the organization's members through **clear visualizations** and **meaningful analytics**.  
 
